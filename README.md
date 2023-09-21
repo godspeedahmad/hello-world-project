@@ -2,10 +2,10 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>README</b></h3>
 
 </div>
 
@@ -13,9 +13,7 @@
 
 # 📖 [Hello World Project] <a name="about-project"></a>
 
-> Test project created to understand git branches, GitHub workflow and the use of linters to validate code before changes are committed and/or pushed to a remote.
-
-**[your_project__name]** is a...
+**[Hello World Project]** is a test project created to understand git branches, GitHub workflow and the use of linters to validate code before changes are committed and/or pushed to a remote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,7 +60,7 @@ Example commands:
 
 👤 **Ahmad Saleem**
 
-- GitHub: [@githubhandle](https://github.com/godspeedahmad)
+- GitHub: [@godspeedahmad](https://github.com/godspeedahmad)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
